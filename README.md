@@ -5,9 +5,10 @@ A small Flutter app that pulls products from the [DummyJSON](https://dummyjson.c
 
 ## Demo Video
 
-https://github.com/fluttertip/product_explorer_demo/blob/main/demovideo.mp4
 
-[▶ Watch the full demo video](https://github.com/fluttertip/product_explorer_demo/blob/main/demovideo.mp4)
+https://github.com/user-attachments/assets/732d0ea0-37c9-4702-a698-d2d016ff31e4
+
+
 
 ## Download APK
 
