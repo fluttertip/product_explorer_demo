@@ -2,11 +2,19 @@
 
 A small Flutter app that pulls products from the [DummyJSON](https://dummyjson.com/products?limit=10) API and shows them in a clean list with a detail page for each one. I built it as a practical test for an Android/Flutter role, so I kept the scope tight and spent the time on structure, error handling and the UI.
 
-## Demo
 
-https://github.com/
+## Demo Video
 
-[watch the demo directly](demovideo.mp4).
+https://github.com/fluttertip/product_explorer_demo/blob/main/demovideo.mp4
+
+[▶ Watch the full demo video](https://github.com/fluttertip/product_explorer_demo/blob/main/demovideo.mp4)
+
+## Download APK
+
+[![Download APK](https://img.shields.io/badge/Download-Android%20APK-2ea44f?style=for-the-badge&logo=android&logoColor=white)](https://github.com/fluttertip/product_explorer_demo/raw/refs/heads/main/app.apk)
+
+Download and install the Android APK to try Product Explorer on your device.
+
 
 ## What it does
 
